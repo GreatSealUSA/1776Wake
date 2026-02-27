@@ -6,12 +6,13 @@
 
 # Media Study
 
-"Finnegans Wake is the greatest guidebook to media study ever fashioned by man." - Marshall McLuhan, Newsweek Magazine, page 56, February 28, 1966
+"Finnegans Wake is the greatest **guidebook to media study** ever fashioned by man." - Marshall McLuhan, Newsweek Magazine, page 56, February 28, 1966
 
-* “History, Stephen said, is a nightmare from which I am trying to awake.”
+* “History, Stephen said, is **a nightmare from which I am trying to awake**.”
 ― James Joyce, Ulysses, [Episode 2: Nestor, Page 34](https://en.wikisource.org/wiki/Ulysses_(1922)/Chapter_2)
    * Streaming print, partially serialised in the American journal The Little Review from March 1918 to December 1920
    * The complete book was published February 2, 1922 on James Joyce's 40th birthday.
+   * Another recommended source for the quote: https://www.JoyceProject.com/2
 
 &nbsp;
 
