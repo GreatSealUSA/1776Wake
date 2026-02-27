@@ -20,33 +20,6 @@ GSUSAFILEOBVERSE="great_seal_obverse.svg"
 #       2026-02-27 got:
 #       ImageMagick 7.1.2-15 Q16-HDRI x86_64 818ee6363:20260222
 
-# centered
-function graphics_work_do {
-    
-./magick -size 1280x640 xc:white \
-     \( -density 300 "$GSUSAFILE"        -transparent white -resize x580 \) \
-        -gravity center -geometry -320+0 -composite \
-     \( -density 300 "$GSUSAFILEOBVERSE" -transparent white -resize x580 \) \
-        -gravity center -geometry +320+0 -composite \
-  png8:1776Wake_logo_sized_1280_x_640.png 
-
-  # did not try
-  #         -background white -flatten
-
-}
-
-
-# touching shifted to left
-function graphics_work_do_one {
-    
-./magick -size 1280x640 xc:none \
-  \( -density 300 "$GSUSAFILE"        -transparent white -resize x580 \) \
-  -gravity center -geometry -344+0 -composite \
-  \( -density 300 "$GSUSAFILEOBVERSE" -transparent white -resize x580 \) \
-  -gravity center -geometry +229+0 -composite \
-  png8:1776Wake_logo_sized_1280_x_640.png
-
-}
 
 
 function graphics_work_do_two {
@@ -61,8 +34,8 @@ function graphics_work_do_two {
   -fill "#B54700" -stroke "#B54700" -strokewidth 2 \
   -gravity south -annotate -61-10 "#1776Wake" \
   \
-  -pointsize 15 \
-  -gravity east -annotate 270x270+60-280 "1776Wake" \
+  -pointsize 17 \
+  -gravity east -annotate 270x270+60-280 "www.1776Wake.com" \
   \
   png8:1776Wake_logo_sized_1280_x_640.png
 
