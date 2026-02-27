@@ -7,3 +7,14 @@
 # Media Study
 
 "Finnegans Wake is the greatest guidebook to media study ever fashioned by man." - Marshall McLuhan, Newsweek Magazine, page 56, February 28, 1966
+
+&nbsp;
+
+&nbsp;
+
+------------------------------
+
+&nbsp;
+
+![Both sides of the Great Seal of the United States of America](Great_Seal_USA_Both_Sides_One_Image.png)
+
