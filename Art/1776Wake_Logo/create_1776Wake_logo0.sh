@@ -42,6 +42,31 @@ function graphics_work_do_two {
 }
 
 
+function graphics_work_do_three {
+    
+./magick -size 1280x640 xc:white \
+  \( -density 300 "$GSUSAFILE"        -transparent white -resize x540 \) \
+  -gravity center -geometry -334-34 -composite \
+  \( -density 300 "$GSUSAFILEOBVERSE" -transparent white -resize x540 \) \
+  -gravity center -geometry +214-34 -composite \
+  \
+  -font "Ubuntu-Mono-Bold" -pointsize 28 \
+  -fill "#B54700" -stroke "#B54700" -strokewidth 2 \
+  -gravity south -annotate -61-10 "#1776Wake" \
+  \
+  -pointsize 17 \
+  -gravity east -annotate 270x270+120-280 "www.1776Wake.com" \
+  \
+  -pointsize 10.3 \
+  -fill "#000000" -stroke "#000000" -strokewidth 1 \
+  -gravity east -annotate 270x270+60-280 "James Joyce Wake Symbolism" \
+  \
+  png8:1776Wake_logo_sized_1280_x_640.png
+
+}
+
+
+
 
 
 if [ -f "$GSUSAFILEOBVERSE" ]; then
@@ -58,7 +83,7 @@ fi
 
 if [ -f "$GSUSAFILE" ]; then
   echo "The file '$GSUSAFILE' exists and is a regular file."
-  graphics_work_do_two
+  graphics_work_do_three
 else
 
   wget -O $GSUSAFILE \
