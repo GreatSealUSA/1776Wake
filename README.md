@@ -24,3 +24,7 @@
 
 ![Both sides of the Great Seal of the United States of America](Great_Seal_USA_Both_Sides_One_Image.png)
 
+&nbsp;
+
+![Wake 1776 Logo / Wake1776 hashtag / www.Wake1776.com web address](Art/1776Wake_Logo/1776Wake_logo_sized_1280_x_640.png)
+
