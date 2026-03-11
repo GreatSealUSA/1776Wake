@@ -8,3 +8,8 @@ Once a week reminders. https://youtu.be/dtih_tmF12c?t=162
 
 Religious Groups    
 Remedial Morality    
+
+&nbsp;
+
+https://bsky.app/profile/greatsealusa.bsky.social/post/3mgswidn4ds2g    
+https://autistics.life/@RoundSparrow/116212885890242918  
