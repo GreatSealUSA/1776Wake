@@ -42,6 +42,8 @@ Please Lecture
 Lecture About Love  
 Please Lecture Everybody   
 Please Lecture Everyone   
+Please Help Lecture   
+Please Help Lecture About   
 
 People clearly do not grasp or realize love and compassion. Please clearly have a misunderstanding. Clearly the clergy has done a terrible job of teaching and educating. Clearly the clergy is toxic. Clearly there is an absence of knowing love and compassion.   
 
