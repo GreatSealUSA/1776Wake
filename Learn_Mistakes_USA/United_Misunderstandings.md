@@ -34,3 +34,14 @@ https://autistics.life/@RoundSparrow/116280193030691678
 
 https://www.youtube.com/watch?v=lmc6w2k28y8    
 
+&nbsp;
+
+# Please Lecture
+
+Please Lecture   
+Lecture About Love  
+Please Lecture Everybody   
+Please Lecture Everyone   
+
+People clearly do not grasp or realize love and compassion. Please clearly have a misunderstanding. Clearly the clergy has done a terrible job of teaching and educating. Clearly the clergy is toxic. Clearly there is an absence of knowing love and compassion.   
+
