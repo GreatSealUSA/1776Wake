@@ -47,3 +47,20 @@ Please Help Lecture About
 
 People clearly do not grasp or realize love and compassion. Please clearly have a misunderstanding. Clearly the clergy has done a terrible job of teaching and educating. Clearly the clergy is toxic. Clearly there is an absence of knowing love and compassion.   
 
+&nbsp;
+
+# Please *Want To* Understand
+
+NEW_OPERA_NAME #WantToUnderstand #PleaseWant    
+
+https://bsky.app/profile/greatsealusa.bsky.social/post/3mhvlt2x2dc2i     
+https://autistics.life/@RoundSparrow/116290947872775722  
+
+&nbsp;
+
+## Black Hole Eye
+
+NEW_OPERA_NAME #NationMyEyes #NationMyEye #👁 #USA👁 #BlackHoleEye   
+
+https://autistics.life/@RoundSparrow/116290973565740632   
+https://bsky.app/profile/greatsealusa.bsky.social/post/3mhvm5wkapk2i   
