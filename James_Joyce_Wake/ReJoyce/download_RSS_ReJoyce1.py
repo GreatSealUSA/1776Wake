@@ -15,7 +15,7 @@ from tqdm import tqdm
 #
 
 FEED_URL = "https://rss.libsyn.com/shows/618765/destinations/5397235.xml"
-OUT_DIR = Path("./RejoyceLocal")
+OUT_DIR = Path("./ReJoyceLocal")
 
 
 def sanitize_filename(text: str) -> str:
