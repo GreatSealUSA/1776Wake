@@ -11,6 +11,8 @@ from tqdm import tqdm
 # inspired by:
 #  https://old.reddit.com/r/jamesjoyce/comments/1u2g2bw/re_joyce_podcast_update/oqxl15f/
 #
+# License: Public Domain. No rights reserved.
+#
 
 FEED_URL = "https://rss.libsyn.com/shows/618765/destinations/5397235.xml"
 OUT_DIR = Path("./RejoyceLocal")
