@@ -7,3 +7,4 @@ It's about you and we and us and PLURIBUS symbolism of Tim Finnegan the brick ma
 &nbsp;
 
 https://www.1776Wake.com/Tim_Finnegan/Ultimate_We_Model   
+https://old.reddit.com/r/1776Wake/comments/1u50ift/1776wakecom_finnegans_wake_to_read_the_1776/    
