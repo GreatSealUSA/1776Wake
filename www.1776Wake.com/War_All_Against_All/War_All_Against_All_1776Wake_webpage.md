@@ -14,6 +14,8 @@ Peter Pomerantsev *book tour start* December 5, 2014 nonfiction book "Nothing is
  ✓ "Humiliate the US by showing that Article 5 is a joke"   
  ✓ "Showing the world that NATO is a joke"   
 
+"This is where we want the country to be in 20 years time", year 2014 to year 2034.
+
 &nbsp;
 
 # War of All Against All - Surkov
