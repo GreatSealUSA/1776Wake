@@ -7,7 +7,7 @@ https://www.1776Wake.com/home/War_All_Against_All
 
 &nbsp;
 
-Peter Pomerantsev *book tour start* December 5, 2014 nonfiction book "Nothing is True and Everything is Possible". Politics & Prose Bookstore in Washington, D.C. United States of America. Topic: Russia Kremlin Putin
+Peter Pomerantsev *book tour start* December 5, 2014 nonfiction book "Nothing is True and Everything is Possible". [Politics & Prose bookstore in Washington, D.C.](https://en.wikipedia.org/wiki/Politics_and_Prose) United States of America. Topic: Russia Kremlin Putin
 
 "Checklist of stuff they want to achieve"      
  ✓ "Turn the EU to mush"   
