@@ -16,6 +16,6 @@ Peter Pomerantsev *book tour start* December 5, 2014 nonfiction book "Nothing is
 
 &nbsp;
 
-# War All Against All
+# War of All Against All - Surkov
 
 "would go on to call the Fifth World War. The first nonlinear war of all against all. Which is a description by Vladislav Surkov, who sort of the ennui ??? of Russian politics, of the current (year 2014) war around Ukraine. um, so, I started working in Russian TV"
