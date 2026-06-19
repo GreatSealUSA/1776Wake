@@ -8,7 +8,10 @@ https://bsky.app/profile/roundsparrow.bsky.social/post/3monoolbgds2j
 
 # "Are No Limits" for Trump Power
 
-#AreNoLimits for Trump power
+#AreNoLimits for Trump power   
+https://NewRepublic.com/post/212085/trump-declares-no-limits-power    
+By Rachel Kahn / June 19, 2026 9:01 a.m. ET   
+"Trump Declares There Are “No Limits” to His Power"     
 
 Donald Trump has been correct since July 6, 2011. #TrumpMythos There are NO LIMITS TO THE POWER OF FICTION STORY POPULARITY! #SurkovMonomyth has "app engaged" the entire population to fantasy fiction governing. #SurkovGoverning 
 
