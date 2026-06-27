@@ -47,7 +47,7 @@ Steven Spielberg metaphors are aiming very high. Not to make money, but to face 
 
 BILL MOYERS: Or he goes to the movies.
 
-JOSEPH CAMPBELL: That might be our counterpart to mythological re-enactments -- except that we don't have the same kind of thinking going into the production of a movie that goes into the production of an initiation ritual.
+JOSEPH CAMPBELL: That might be our counterpart to mythological re-enactments -- except that **we don't have the same kind of thinking going into the production of a movie** that goes into the production of an initiation ritual.
 
 BILL MOYERS: No, but given the absence of initiation rituals, which have largely disappeared from our society, the world of imagination as projected on that screen serves, even if in a faulty way, to tell that story, doesn't it?
 
