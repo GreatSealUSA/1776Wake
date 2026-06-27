@@ -42,7 +42,7 @@ function graphics_work_do_three {
   -fill "#000000" -stroke "#000000" -strokewidth 1 \
   -gravity east -annotate 270x270+60-280 "James Joyce Wake Symbolism" \
   \
-  png8:1776Wake_logo_sized_1280_x_640.png
+  png8:1776Wake_Left-Eye_Right-Eye_Third-Eye_Disclosure_Day_sized_1280_x_640.png
 
 }
 
