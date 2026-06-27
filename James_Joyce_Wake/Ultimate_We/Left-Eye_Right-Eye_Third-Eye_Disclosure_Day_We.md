@@ -37,7 +37,7 @@ May 4, 1939 https://www.finnegansweb.com/wiki/index.php/Page_581
 
 &nbsp;
 
-&mbsp;
+&nbsp;
 
 # Stories are making and breaking lives
 
