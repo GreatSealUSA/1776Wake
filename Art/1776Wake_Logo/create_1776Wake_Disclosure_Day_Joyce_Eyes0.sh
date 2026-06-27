@@ -10,7 +10,8 @@
 #
 #   2027-06-27
 #     wget https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-26/ImageMagick-7.1.2-26-clang-x86_64.AppImage
-#     cp ImageMagick-7.1.2-26-clang-x86_64.AppImage
+#     cp ImageMagick-7.1.2-26-clang-x86_64.AppImage magick
+#     chmod +x magick
 #
 
 GSUSAFILE="great_seal_reverse.svg"
