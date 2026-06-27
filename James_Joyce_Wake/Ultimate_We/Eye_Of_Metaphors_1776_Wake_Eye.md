@@ -29,3 +29,6 @@ SONG LYRICS:
 
 #EyeOfMetaphors #EyeOfMeta /\   
 
+&nbsp;
+
+* “Thomas Jefferson. . . knew what schools were for ― to ensure that citizens would know when and how to protect their liberty. . . It would not have come easily to the mind of such a man, as it does to political leaders today, that the young should be taught to read exclusively for the purpose of increasing their economic productivity.” ― Neil Postman, The End of Education: Redefining the Value of School. September 1995.
