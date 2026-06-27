@@ -39,6 +39,23 @@ May 4, 1939 https://www.finnegansweb.com/wiki/index.php/Page_581
 
 &nbsp;
 
+NEW_OPERA_NAME #1776WakeEye #EyeWoke    
+https://bsky.app/profile/greatsealusa.bsky.social/post/3mpbudhvrhs2k    
+https://autistics.life/@RoundSparrow/116822968016716766    
+
+&nbsp;
+
+#1776WakeEye  
+#GreatSealUSAEye    
+
+Look at the One Dollar Bill eye. The USA Founding Fathers did not want the meaning to be secret. There are no "special revelations" in the pyramid #OutOfAfrica year 1776 ideals and thinking.
+
+#EyeWoke Eye Woke - Wake Woke. James Joyce teacher of Woke Wake, Finnegans All and We!
+
+&nbsp;
+
+&nbsp;
+
 # Stories are making and breaking lives
 
 Steven Spielberg metaphors are aiming very high. Not to make money, but to face the organizations that keep secrets, the organized secrecy.
